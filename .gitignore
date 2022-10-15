@@ -1,0 +1,7 @@
+.env
+.DS_Store
+.gitignore
+.htaccess
+package.json
+package-locl.json
+node_modules
